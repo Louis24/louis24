@@ -8,18 +8,36 @@
 </div>
 
 <div align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
+ <img src="https://github-readme-streak-stats.vercel.app/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
 </div>
 
 
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis24&theme=catppuccin_mocha" alt="Top Langs" width="45%"/>
-</div> -->
 
 
-## Project Demos
-[github.io](https://louis24.github.io/)<br>
-[youtube](https://www.youtube.com/@PhantomDreamAI/)
+
+## Projects
+
+<div align="left">
+  <a href="https://louis24.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Personal_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
+  <br><br>
+  <a href="https://www.youtube.com/@PhantomDreamAI/" target="_blank">
+    <img src="https://img.shields.io/badge/🎥_YouTube-PhantomDreamAI-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+  <br><br>
+  <a href="https://space.bilibili.com/3546609583392965?spm_id_from=333.1007.0.0" target="_blank">
+    <img src="https://img.shields.io/badge/📺_Bilibili-哔哩哔哩-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Channel"/>
+  </a>
+  <br><br>
+  <a href="https://www.phantomdream.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Web3_Daily-PhantomDream-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Daily"/>
+  </a>
+  <br><br>
+  <a href="https://phantom-dream-y84zvfl.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_Business_Plan-Phantom_Dream-green?style=for-the-badge&logo=briefcase&logoColor=white" alt="Business Plan"/>
+  </a>
+</div>
 
 
 ## Programming
