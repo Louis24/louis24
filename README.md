@@ -8,11 +8,8 @@
 </div>
 
 <div align="left">
- <img src="https://github-readme-streak-stats.vercel.app/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
+ <img src="https://streak-stats.demolab.com/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
 </div>
-
-
-
 
 
 ## Projects
@@ -38,7 +35,6 @@
     <img src="https://img.shields.io/badge/💼_Business_Plan-Phantom_Dream-green?style=for-the-badge&logo=briefcase&logoColor=white" alt="Business Plan"/>
   </a>
 </div>
-
 
 ## Programming
 
