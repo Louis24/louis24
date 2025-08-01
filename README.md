@@ -15,6 +15,31 @@
 ## Projects
 
 <div align="left">
+  <!-- Main Projects with Images -->
+  <table>
+    <tr>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Other Links -->
+  <a href="https://meta.phantomdream.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Metaphysics-00ff00?style=for-the-badge&logoColor=white" alt="AI Metaphysics"/>
+  </a>
+  <br><br>
+  <a href="https://ai-aggregator-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Aggregator-00ff00?style=for-the-badge&logoColor=white" alt="AI Aggregator"/>
+  </a>
+  <br><br>
+  <a href="https://ai.phantomdream.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/AIGC-00ff00?style=for-the-badge&logoColor=white" alt="AIGC Daily"/>
+  </a>
+  <br><br>
+  <a href="https://web3.phantomdream.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Web3-00ff00?style=for-the-badge&logoColor=white" alt="Web3 Daily"/>
+  </a>
+  <br><br>
   <a href="https://louis24.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-Personal_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
   </a>
@@ -25,10 +50,6 @@
   <br><br>
   <a href="https://space.bilibili.com/3546609583392965?spm_id_from=333.1007.0.0" target="_blank">
     <img src="https://img.shields.io/badge/📺_Bilibili-哔哩哔哩-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Channel"/>
-  </a>
-  <br><br>
-  <a href="https://www.phantomdream.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Web3_Daily-PhantomDream-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Daily"/>
   </a>
   <br><br>
   <a href="https://phantom-dream-y84zvfl.gamma.site/" target="_blank">
