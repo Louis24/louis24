@@ -25,35 +25,35 @@
 
   <!-- Other Links -->
   <a href="https://meta.phantomdream.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Metaphysics-00ff00?style=for-the-badge&logoColor=white" alt="AI Metaphysics"/>
+    <img src="https://img.shields.io/badge/🔮_Metaphysics-梦境解析-ff79c6?style=for-the-badge&logo=github&logoColor=white" alt="AI Metaphysics"/>
   </a>
   <br><br>
   <a href="https://ai-aggregator-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Aggregator-00ff00?style=for-the-badge&logoColor=white" alt="AI Aggregator"/>
+    <img src="https://img.shields.io/badge/🔗_Aggregator-AI聚合-bd93f9?style=for-the-badge&logo=github&logoColor=white" alt="AI Aggregator"/>
   </a>
   <br><br>
   <a href="https://ai.phantomdream.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/AIGC-00ff00?style=for-the-badge&logoColor=white" alt="AIGC Daily"/>
+    <img src="https://img.shields.io/badge/🤖_AIGC-日报-8be9fd?style=for-the-badge&logo=github&logoColor=white" alt="AIGC Daily"/>
   </a>
   <br><br>
   <a href="https://web3.phantomdream.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Web3-00ff00?style=for-the-badge&logoColor=white" alt="Web3 Daily"/>
+    <img src="https://img.shields.io/badge/💎_Web3-日报-50fa7b?style=for-the-badge&logo=github&logoColor=white" alt="Web3 Daily"/>
   </a>
   <br><br>
   <a href="https://louis24.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-Personal_Portfolio-blue?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/📄_Resume-Personal_Portfolio-ffb86c?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
   </a>
   <br><br>
   <a href="https://www.youtube.com/@PhantomDreamAI/" target="_blank">
-    <img src="https://img.shields.io/badge/🎥_YouTube-PhantomDreamAI-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+    <img src="https://img.shields.io/badge/📺_YouTube-PhantomDreamAI-ff5555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
   </a>
   <br><br>
   <a href="https://space.bilibili.com/3546609583392965?spm_id_from=333.1007.0.0" target="_blank">
-    <img src="https://img.shields.io/badge/📺_Bilibili-哔哩哔哩-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Channel"/>
+    <img src="https://img.shields.io/badge/📺_Bilibili-PhantomDreamAI-f1fa8c?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Channel"/>
   </a>
   <br><br>
   <a href="https://phantom-dream-y84zvfl.gamma.site/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Business_Plan-Phantom_Dream-green?style=for-the-badge&logo=briefcase&logoColor=white" alt="Business Plan"/>
+    <img src="https://img.shields.io/badge/💼_Business_Plan-PhantomDreamAI-f8f8f2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Business Plan"/>
   </a>
 </div>
 
