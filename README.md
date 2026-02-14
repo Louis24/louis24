@@ -5,10 +5,15 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=louis24&show_icons=true&theme=gotham" alt="GitHub Stats" width="45%"/>
+  <img src="https://streak-stats.demolab.com/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
 </div>
 
 <div align="left">
- <img src="https://streak-stats.demolab.com/?user=louis24&theme=blueberry" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louis24&layout=compact&theme=gotham" alt="Top Languages" width="45%"/>
+</div>
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=louis24&theme=onedark" alt="GitHub Trophies" width="90%"/>
 </div>
 
 
